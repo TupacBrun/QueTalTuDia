@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">quetalfuetudia</string>
+
+    <!-- Titulo -->
+    <string name="pregunta">¿Qué tal fue tu día?</string>
+
+    <!-- Respuestas -->
+    <string name="respuesta1">Excelente</string>
+    <string name="respuesta2">Bueno</string>
+    <string name="respuesta3">Malo</string>
+    <string name="respuesta4">Pésimo</string>
+
+    <!-- Botón -->
+    <string name="btn_txt">Enviar</string>
+
+    <!-- Mensajes -->
+    <string name="mensaje1">¡Qué buena noticia!</string>
+    <string name="mensaje2">Seguro que mañana será excelente</string>
+    <string name="mensaje3">¡Vamos! que no decaiga</string>
+    <string name="mensaje4">¡Arriba ese ánimo!</string>
+</resources>
